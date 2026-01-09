@@ -1,6 +1,5 @@
-# rmp-docs
-Canonical documentation source
+⚠️ This repository mirrors the canonical documentation published at:
+https://remappedprotocol.org/docs
 
-## Project maturity
-Remapped Protocol is in active development.
-Design decisions are published before implementation to reduce surprise changes.
+The website is the authoritative source.
+This repository exists for transparency and version tracking.
